@@ -1,0 +1,5 @@
+train: ../dataset_masks/train/
+val: ../dataset_masks/eval/
+
+nc: 2
+names: ['no_mask', 'yes_mask']
